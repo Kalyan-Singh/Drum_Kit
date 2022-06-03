@@ -3,7 +3,7 @@ https://kalyan-singh.github.io/Drum_Kit/
 
 The link of hosted website.
 
-This website is a simple vanilla js project that I created while learning js concepts.
+This website is a simple js project that I created while learning js concepts.
 
 It has 7 types of drums, which give their own unique sound when clicked or pressed their respective button from the keyboard.
 
